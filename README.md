@@ -50,3 +50,6 @@ Model dengan performa terbaik ditentukan berdasarkan evaluasi komparatif. Visual
    ```bash
    git clone https://github.com/username/diabetes-prediction.git
    cd diabetes-prediction
+
+## 🚀 Dashboard Tableau
+https://public.tableau.com/app/profile/elba.faradisa/viz/DiabetesDatasetProfile/Dashboard1
